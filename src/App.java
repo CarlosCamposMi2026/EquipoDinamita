@@ -7,6 +7,7 @@ public class App {
         // ZONA DE MÓDULOS
         String estadoModulo = "Módulo de Login Activado por Alumno A";
         System.out.println("Estado: " + estadoModulo);
+        System.out.println("=== SISTEMA PRO - ALUMNO A ===");
 
         
     }
